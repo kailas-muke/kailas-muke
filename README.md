@@ -8,9 +8,9 @@ I'm always fascinated by how Machine Learning and AI can be applied to everythin
 - Data Base : My SQL, MongoDB
 - Languages : PYTHON, 
 ### You can catch me at :
-- LinkedIn : https://www.linkedin.com/in/kailas-muke/
-- GitHub : https://github.com/kailas-muke
-### My Resume: https://github.com/kailas-muke/kailas-muke/blob/main/Kailas_Muke_Resume.pdf
+- LinkedIn : [LinkedIn/kailas_muke](https://www.linkedin.com/in/kailas-muke/)
+- GitHub : [Github/kailas_muke](https://github.com/kailas-muke)
+### My Resume: [Kailas_Muke_Resume](https://github.com/kailas-muke/kailas-muke/blob/main/Kailas_Muke_Resume.pdf)
 
 <img src="https://github-readme-stats.vercel.app/api?username=kailas-muke&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
