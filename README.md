@@ -11,6 +11,8 @@ I'm always fascinated by how Machine Learning and AI can be applied to everythin
 - LinkedIn : https://www.linkedin.com/in/kailas-muke/
 - GitHub : https://github.com/kailas-muke
 
+### My Resume: 
+
 <img src="https://github-readme-stats.vercel.app/api?username=kailas-muke&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
